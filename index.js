@@ -3,5 +3,7 @@ const app = "I don't do much."
 var kittens = ["Milo", "Otis", "Garfield"]
 
 function destrctivelyAppendKitten(name) {
-  return push.kittens()
+  return array.push()
 }
+
+function 
