@@ -22,5 +22,3 @@ function destructivelyRemoveFirstKitten() {
   return kittens
 }
 
-
-}
