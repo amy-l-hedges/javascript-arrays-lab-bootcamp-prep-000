@@ -3,12 +3,12 @@ const app = "I don't do much."
 var kittens = ["Milo", "Otis", "Garfield"]
 
 function destrctivelyAppendKitten(name) {
-  kittens.push()
+  kittens.push(name)
   return kittens
 }
 
 function destructivelyPrependKitten(name) {
-  kittens.unshift()
+  kittens.unshift(name)
   return kittens
 }
 
