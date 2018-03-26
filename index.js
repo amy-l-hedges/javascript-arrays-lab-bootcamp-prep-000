@@ -6,4 +6,8 @@ function destrctivelyAppendKitten(name) {
   return array.push()
 }
 
-function 
+function destructivelyPrependKitten(name) {
+  return array.unshift()
+}
+
+function destructivelyRemoveLastKitten(name)
